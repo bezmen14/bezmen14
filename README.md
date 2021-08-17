@@ -1,4 +1,8 @@
-### Hi there 👋
+###
+Всем привет 👋 Меня зовут Егор, я JavaScript разработчик.
+🔭 Я в поиске интересных предложений
+📫 Моя почта: egor1911@gmail.com
+
 
 <!--
 **bezmen14/bezmen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
